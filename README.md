@@ -6,8 +6,10 @@ A full web-scraping and data analysis project. HTML elements identified on a pag
 
 This work consists of two technical products:
 
-*** Deliverable 1: Scrape titles and preview text from Mars news articles
-*** Deliverable 2: Scrape and analysis of Mars weather data
+** Deliverable 1: Scrape titles and preview text from Mars news articles
+
+** Deliverable 2: Scrape and analysis of Mars weather data
+
 
 ** Part 1: ScrapedTitles and Preview Text from Mars News:
 
