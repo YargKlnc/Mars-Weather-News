@@ -33,4 +33,4 @@ This work consists of two technical products:
     * Which month, on average, has the lowest atmospheric pressure? The highest? 
     * How many terrestrial days exist in a Martian year? A visual estimate within 25% was made
   
-- The DataFrame was exported into a CSV file. (5 points)
+- The DataFrame was exported into a CSV file
