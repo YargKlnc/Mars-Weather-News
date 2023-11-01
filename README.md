@@ -5,7 +5,7 @@ YK UofT Data Analytics Mars-Challenge
 
 **"A full web-scraping and data analysis project. HTML elements identified on a page, with their id and class attributes, and information extracted via both automated browsing with Splinter and HTML parsing with Beautiful Soup as well as various types of information that include HTML tables and recurring elements, like multiple news articles on a webpage."**
 
-This work consists of two technical products: 
+This work consists of two parts: 
 
 ** Part 1: Scrape titles and preview text from Mars news articles
 
