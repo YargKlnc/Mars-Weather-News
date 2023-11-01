@@ -2,6 +2,7 @@
 YK UofT Data Analytics Mars-Challenge  
 
 # Background
+
 **"A full web-scraping and data analysis project. HTML elements identified on a page, with their id and class attributes, and information extracted via both automated browsing with Splinter and HTML parsing with Beautiful Soup as well as various types of information that include HTML tables and recurring elements, like multiple news articles on a webpage."**
 
 This work consists of two technical products: 
@@ -12,7 +13,7 @@ This work consists of two technical products:
 
 ======================================================================
 
-** Part 1: ScrapedTitles and Preview Text from Mars News:
+**Part 1: ScrapedTitles and Preview Text from Mars News:**
 
 - Automated browsing (with Splinter) was used to visit the Mars news site, and the HTML code was extracted (with Beautiful Soup)
 
@@ -22,7 +23,7 @@ This work consists of two technical products:
 
 ======================================================================
 
-** Part 2: Scrape and Analysis of Mars Weather Data 
+**Part 2: Scrape and Analysis of Mars Weather Data**
 
 - The HTML table was extracted into a Pandas DataFrame. Either Pandas or Splinter and Beautiful Soup were used to scrape the data. The columns have the correct headings and data types
 
