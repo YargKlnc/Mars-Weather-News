@@ -10,7 +10,7 @@ This work consists of two technical products:
 
 ** Part 2: Scrape and analysis of Mars weather data
 
-==========================================================================================================================================================================================
+======================================================================
 
 ** Part 1: ScrapedTitles and Preview Text from Mars News:
 
@@ -20,7 +20,7 @@ This work consists of two technical products:
 
 - The scraped information was stored in the specified Python data structure—specifically, a list of dictionaries
 
-==========================================================================================================================================================================================
+======================================================================
 
 ** Part 2: Scrape and Analysis of Mars Weather Data 
 
