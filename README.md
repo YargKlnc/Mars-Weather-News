@@ -7,13 +7,13 @@ YK UofT Data Analytics Mars-Challenge
 
 This work consists of two parts: 
 
-** Part 1: Scrape titles and preview text from Mars news articles
+** Part 1: Scraping titles and preview text from Mars news articles
 
-** Part 2: Scrape and analysis of Mars weather data
+** Part 2: Scraping and analysis of Mars weather data
 
 ======================================================================
 
-**Part 1: ScrapedTitles and Preview Text from Mars News:**
+**Part 1: Scraping Titles and Preview Text from Mars News:**
 
 - Automated browsing (with Splinter) was used to visit the Mars news site, and the HTML code was extracted (with Beautiful Soup)
 
@@ -23,7 +23,7 @@ This work consists of two parts:
 
 ======================================================================
 
-**Part 2: Scrape and Analysis of Mars Weather Data**
+**Part 2: Scraping and Analysis of Mars Weather Data**
 
 - The HTML table was extracted into a Pandas DataFrame. Either Pandas or Splinter and Beautiful Soup were used to scrape the data. The columns have the correct headings and data types
 
