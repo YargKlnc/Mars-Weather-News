@@ -3,6 +3,8 @@ YK UofT Data Analytics Mars-Challenge
 
 **"A full web-scraping and data analysis project. HTML elements identified on a page, with their id and class attributes, and information extracted via both automated browsing with Splinter and HTML parsing with Beautiful Soup as well as various types of information that include HTML tables and recurring elements, like multiple news articles on a webpage."**
 
+![image](https://github.com/YargKlnc/Mars-Weather-News/assets/142269763/0cdf26a8-2bc0-40ef-8e42-91632211bb65)
+
 This work consists of two parts: 
 
 ** Part 1: Scraping titles and preview text from Mars news articles
@@ -36,3 +38,8 @@ This work consists of two parts:
     * How many terrestrial days exist in a Martian year? A visual estimate within 25% was made
   
 - The DataFrame was exported into a CSV file
+
+  
+**References**
+
+Mars photo and all rights belongs to https://www.downtoearth.org.in/news/science-technology/what-caused-mars-to-dry-out-a-new-study-provides-clues-83040
