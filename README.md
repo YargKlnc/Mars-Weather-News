@@ -42,4 +42,4 @@ This work consists of two parts:
   
 **References**
 
-Mars photo and all rights belongs to https://www.downtoearth.org.in/news/science-technology/what-caused-mars-to-dry-out-a-new-study-provides-clues-83040
+Mars photo and all rights belongs to www.downtoearth.org.in. https://www.downtoearth.org.in/news/science-technology/what-caused-mars-to-dry-out-a-new-study-provides-clues-83040
